@@ -1,3 +1,3 @@
 # ConvertXLXSTOCSV
 
-check that jar required for file conversion 
+Add that jar required for file conversion 
